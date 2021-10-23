@@ -15,7 +15,7 @@
 <h2>About me</h2>
 <ul>
 <li>This is my linkedin profile: <a href="https://www.linkedin.com/in/lorenzo-bartomioli-7a1754215/" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a> </li>
-  <li> Look at my works on https://lorenzob20.github.io/ </li
+  <li> Look at my works on https://lorenzob20.github.io/ (Work in progress..) </li> 
 </ul>
 
 <!--
